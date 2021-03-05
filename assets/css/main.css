@@ -556,7 +556,7 @@ footer .footer-custom-content {
   .intro-header.big-img {
     margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
     overflow:  hidden;
-    height: 65vh;
+    height: 90vh;
     background-position: center 56px;
   }
 }
@@ -565,8 +565,14 @@ footer .footer-custom-content {
   .intro-header.big-img {
     margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
     overflow:  hidden;
-    height: 50vh;
+    height: 70vh;
     background-position: center 70px;
+  }
+
+  .post-image img {
+    height: 50%;
+    width: 50%;
+    border-radius: 7rem;
   }
 }
 
@@ -639,7 +645,7 @@ footer .footer-custom-content {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.6875rem;
+  font-size: 1.6rem;
   line-height: 1.1;
   display: block;
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -680,7 +686,7 @@ footer .footer-custom-content {
   .intro-header.big-img {
     margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
     overflow:  hidden;
-    height: 90vh;
+    height: 85vh;
     background-position: center 56px;
   }
   .intro-header.big-img .page-heading,
@@ -723,13 +729,13 @@ footer .footer-custom-content {
     margin-bottom: 0px;
   
   
-      /* Set a specific dimension */
-      height: 26.5vh; 
-  
-      /* Create the parallax scrolling effect */
-      background-attachment: fixed;
-      background-repeat: no-repeat;
-      background-position: center 50px;
+    /* Set a specific dimension */
+    height: 40vh; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center 50px;
   }
 
   .intro-header.big-img .page-heading,
@@ -755,7 +761,7 @@ footer .footer-custom-content {
   
   
       /* Set a specific dimension */
-      height: 32vh; 
+      height: 45vh; 
   
       /* Create the parallax scrolling effect */
       background-attachment: fixed;
@@ -777,7 +783,7 @@ footer .footer-custom-content {
   
   
       /* Set a specific dimension */
-      height: 35vh; 
+      height: 50vh; 
   
       /* Create the parallax scrolling effect */
       background-attachment: fixed;
@@ -1031,5 +1037,30 @@ pre {
 @media (min-width:768px) and (max-width:1024px) {
   .intro-header .post-heading h1{
     margin-top: 20px !important;
+  }
+}
+
+@media (max-width: 425px) {
+
+  .intro-header .page-heading h1 {
+    font-size: 2.5rem;
+  }
+  .intro-header .page-heading .page-subheading,
+  .intro-header .post-heading .post-subheading {
+    font-size: 1.5rem;
+  }
+
+  .post-preview .post-title {
+    font-size: 1.75rem;
+  }
+
+  body {
+    font-size: 1.1rem;
+  }
+
+  .post-image img {
+    height: 70%;
+    width: 70%;
+    border-radius: 7rem;
   }
 }
