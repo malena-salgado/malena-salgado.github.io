@@ -729,7 +729,7 @@ footer .footer-custom-content {
   
   
     /* Set a specific dimension */
-    height: 28vh; 
+    height: 40vh; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
