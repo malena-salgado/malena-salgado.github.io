@@ -485,7 +485,7 @@ footer .footer-custom-content {
   width: 100%;
 }
 .post-entry {
-  width: 100%;
+  width: 100%;me
 }
 .post-image {
   float: right;
@@ -568,25 +568,19 @@ footer .footer-custom-content {
     height: 70vh;
     background-position: center 70px;
   }
-
-  .post-image img {
-    height: 50%;
-    width: 50%;
-    border-radius: 7rem;
-  }
 }
 
 @media (max-width: 500px) {
   .post-image, .post-image img {
-    height: 6.25rem;
-    width: 6.25rem;
+    height: 8rem;
+    width: 8rem;
   }
 
   .post-image {
     text-align: center;
     margin-top: 0;
     margin-left: 0;
-    float: none;
+    float: center;
   }
 }
 /* --- Post and page headers --- */
