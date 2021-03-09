@@ -1050,10 +1050,4 @@ pre {
   body {
     font-size: 1.1rem;
   }
-
-  .post-image img {
-    height: 70%;
-    width: 70%;
-    border-radius: 7rem;
-  }
 }
