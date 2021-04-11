@@ -1,9 +1,9 @@
----
+--- 
 layout: post
 title: La mujer nicaragüense en el activismo ambiental: una visión del pasado, presente y futuro
 cover-img: /assets/img/CulturaLibre.jpg
 tags: [mujer, activismo, ambiental]
----
+--- 
 
 Quizás antes de 2018 muchos no estábamos familiarizados con el término “activismo” y no conocíamos que además del voto, había otros mecanismos de participación ciudadana, que no necesariamente estaban ligados a la política partidaria. Desde que comencé a trabajar en las temáticas ambientales, tuvieron que pasar más de 8 años para darme cuenta que yo también estaba ejerciéndolo desde mi campo, y por eso hoy concibo al activismo como toda acción desarrollada por ciudadanos individuales u organizados, encaminada a crear una transformación en cualquier ámbito de índole ambiental, social o político. Esto me llevó a hacer una retrospectiva del importante papel de las mujeres en estos espacios, y hoy que hablamos de una Nueva Nicaragua —una denominación un tanto ambigua— conviene reconocer nuestra participación como algo fundamental y necesario en la protección de los recursos naturales.
 
