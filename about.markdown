@@ -8,6 +8,10 @@ thumbnail-img: /assets/img/avatar-icon.png
 ---
 
 <style>
+h1 {
+  margin-top: 100px;
+}
+  
 h3 {
   margin-bottom: 30px;
 }
@@ -23,7 +27,7 @@ p {
 }
 
 </style>
-
+<br><br>
 <i class="fa fa-address-card" aria-hidden="true"></i> Mi nombre es María Elena Salgado y vivo en 
 [Managua, Nicaragua](https://goo.gl/maps/Mn3Yi97chcwvPtYw8){:target="_blank"}
 
