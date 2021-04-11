@@ -9,7 +9,7 @@ thumbnail-img: /assets/img/avatar-icon.png
 
 <style>
 h1 {
-  margin-top: 100px;
+  margin-top: 100px!important;
 }
   
 h3 {
