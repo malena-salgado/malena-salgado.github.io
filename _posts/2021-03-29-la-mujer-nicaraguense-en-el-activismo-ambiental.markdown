@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La mujer nicaragüense en el activismo ambiental: una visión del pasado, presente y futuro
+title: "La mujer nicaragüense en el activismo ambiental: una visión del pasado, presente y futuro"
 cover-img: /assets/img/CulturaLibre.jpg
 tags: [mujer, activismo, ambiental]
 ---
