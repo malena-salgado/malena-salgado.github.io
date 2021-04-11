@@ -5,6 +5,7 @@ subtitle: USOS international student blog
 thumbnail-img: /assets/img/covid-nicaragua-0.jpg
 tags: [covid, nicaragua]
 ---
+![Public event promoted by the government](/assets/img/covid-nicaragua-1.png){: .mx-auto.d-block :}
 
 I’m writing this article on the thirty-seventh day of the self-imposed quarantine by the Nicaraguan population, after the official announcement by the government of the first coronavirus case in the country, and forty-four days after this disease was declared a pandemic by the WHO.
 
