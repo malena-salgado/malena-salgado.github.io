@@ -3,6 +3,7 @@ layout: post
 title: "Nicaragua: an uncertain future in the face of covid-19"
 subtitle: USOS international student blog
 thumbnail-img: /assets/img/covid-nicaragua-0.jpg
+cover-img: https://phantom-elmundo.unidadeditorial.es/5c19820da3b30d69ab133e048ebb0dce/resize/990/f/jpg/assets/multimedia/imagenes/2020/05/13/15893762906523.jpg
 tags: [covid, nicaragua]
 ---
 I’m writing this article on the thirty-seventh day of the self-imposed quarantine by the Nicaraguan population, after the official announcement by the government of the first coronavirus case in the country, and forty-four days after this disease was declared a pandemic by the WHO.
