@@ -3,10 +3,9 @@ layout: post
 title: "The Nueva Segovia Case in Nicaragua: inequities in rural communities"
 subtitle: USOS international student blog
 thumbnail-img: /assets/img/nueva-segovia-thumbnail.jpg
+cover-img: /assets/img/nueva-segovia-0.jpg
 tags: [nueva segovia, nicaragua]
 ---
-
-![Farmers from the community El Arado protesting outside the Serranías de Dipilto Jalapa Natural Reserve in the department of Nueva Segovia on May 11. Photo taken from social networks.](/assets/img/nueva-segovia-0.jpg){: .mx-auto.d-block :}
 *Farmers from the community El Arado protesting outside the Serranías de Dipilto Jalapa Natural Reserve in the department of Nueva Segovia on May 11. Photo taken from social networks.*
 
 Inequities are inevitably linked to the discussion of ethical criteria. The term inequity differs from inequality as inequities are preventable situations. In the context of the global coronavirus pandemic, these gaps become even more evident and one potential indicator is access to safe water and sanitation.
