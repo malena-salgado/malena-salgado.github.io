@@ -633,7 +633,7 @@ footer .footer-custom-content {
   font-size: 3.125rem;
 }
 .intro-header .post-heading h1 {
-  {% if page.cover-img %}
+  {% if post.cover-img %}
   margin-top: 0px!important;
   {% else %}
   margin-top: 20%;
