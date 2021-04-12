@@ -3,6 +3,7 @@ layout: post
 title: Helping the planet from your home
 subtitle: USOS international student blog
 thumbnail-img: /assets/img/plastic-pot.jpg
+cover-img: /assets/img/plastic-pot.jpg
 tags: [reuse, plastic]
 ---
 
