@@ -635,7 +635,7 @@ footer .footer-custom-content {
 .intro-header .post-heading h1 {
   {% if post.cover-img %}
   margin-top: 0px;
-  {% elseif %}
+  {% else %}
   margin-top: 20%;
   {% endif %}
   font-size: 2.1875rem;
