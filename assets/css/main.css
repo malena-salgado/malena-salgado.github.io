@@ -634,7 +634,7 @@ footer .footer-custom-content {
 }
 .intro-header .post-heading h1 {
   {% if post.cover-img %}
-  margin-top: 0px;
+  margin-top: 0px!important;
   {% else %}
   margin-top: 20%;
   {% endif %}
