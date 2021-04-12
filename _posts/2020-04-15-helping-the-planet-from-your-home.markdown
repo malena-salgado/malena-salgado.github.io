@@ -3,13 +3,9 @@ layout: post
 title: Helping the planet from your home
 subtitle: USOS international student blog
 thumbnail-img: /assets/img/plastic-pot.jpg
-cover-img: /assets/img/plastic-pot.jpg
+cover-img: /assets/img/plastic-pots.png
 tags: [reuse, plastic]
 ---
-
-![Plastic pot](/assets/img/plastic-pots.png){: .mx-auto.d-block :}
-*Many people make flower pots and vases using plastic bottles*
-
 Today, there is an evident increase of many infectious diseases like HIV/AIDS, hantavirus, hepatitis C and SARS. But is there any relation between diseases and climate change? According to the World Health Organization, the combined impacts of rapid demographic, environmental, social, technological and other changes in our way of living, have a consequence on the infectious disease occurrence.
 
 The COVID-19 pandemic is the most recent infectious disease that became one of the greatest challenges for all of humanity. In fact, the last quarantine was in 1918 because of the Spanish flu. For almost a hundred years, humanity has not experienced a quarantine.
