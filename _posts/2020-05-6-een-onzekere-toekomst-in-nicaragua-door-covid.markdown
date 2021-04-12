@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Een onzekere toekomst in Nicaragua door COVID-19
+cover-img: /assets/img/nueva-segovia-6.jpeg
 tags: [covid, toekomst]
 ---
 
-![Een Nicaraguaanse vrouw met mondmasker bid in de Metropolitan Cathedral. Door het gebrek aan transparantie van de autoriteiten overheersen desinformatie en paranoia op de sociale netwerken.](/assets/img/nueva-segovia-6.jpeg){: .mx-auto.d-block :}
 *Een Nicaraguaanse vrouw met mondmasker bid in de Metropolitan Cathedral. Door het gebrek aan transparantie van de autoriteiten overheersen desinformatie en paranoia op de sociale netwerken.*
 
 **De manier waarop de Nicaraguaanse overheid omgaat met de dreiging van het nieuwe coronavirus, kan minstens lichtzinnig genoemd worden. Het land is allesbehalve voorbereid. En omdat transparantie ontbreekt, krijgen desinformatie en paranoia vrij spel op sociale media.**
